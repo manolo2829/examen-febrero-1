@@ -1,0 +1,11 @@
+Usando una base de datos emulada por un diccionario, y sin modificar los archivos entregados, agregar las clases y funcionalidad que sean necesarias para pasar el 100% de los tests.
+Al finalizar debe entregarse un archivo Dockerfile que pase el 100% de los tests
+Referencia:
+Fecha -> año: int, mes: int, dia: int
+Persona -> id: int, apellido: str, nacimiento: Fecha
+
+https://classroom.github.com/a/yQWOpnrx
+
+Docker--practica
+
+https://www.youtube.com/watch?v=MIl-LJodYUU
